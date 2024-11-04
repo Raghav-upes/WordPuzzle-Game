@@ -1,0 +1,16 @@
+{
+    "name": "raghav.wordpuzzle.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fa983aad3ae2a074f8d003ddade14e85"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

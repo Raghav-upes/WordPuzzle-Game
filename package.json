@@ -1,0 +1,17 @@
+{
+  "name": "com.raghav.wordpuzzle",
+  "version": "1.0.0",
+  "displayName": "Word Puzzle Generator",
+  "description": "It is used to generate word puzzle",
+  "unity": "2021.1",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "samples": [
+        {
+            "displayName": "Sample Files",
+            "description": "It is It is used to generate word puzzle",
+            "path": "Samples~/WordPuzzle"
+        }
+    ]
+}
